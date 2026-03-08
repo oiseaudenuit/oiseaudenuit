@@ -4,7 +4,7 @@ Self-taught developer, DJ/producer, and serial entrepreneur. I run an e-commerce
 
 ## What I'm Into
 
-A look at what I'm exploring and collecting, based on my [starred repos](https://github.com/odnmusique?tab=stars):
+A look at what I'm exploring and collecting, based on my [starred repos](https://github.com/oiseaudenuit?tab=stars):
 
 | Topic | Repos |
 |-------|------:|
