@@ -1,6 +1,6 @@
 # Hey, I'm Benjamin 🦉
 
-Self-taught developer, DJ/producer, and serial entrepreneur. I run two music labels, an e-commerce store, and a restaurant — plus whatever else grabs my attention. Background in admin and finance, now deep into building with code and AI.
+Self-taught developer, DJ/producer, and founder/co-founder of two music labels, an e-commerce store, and a restaurant. Background in admin and finance, now deep into building with code and AI.
 
 ## What I'm Into
 
