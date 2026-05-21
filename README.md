@@ -2,13 +2,15 @@
 
 Self-taught developer, DJ/producer, and founder/co-founder of two music labels, an e-commerce store, and a restaurant. Background in admin and finance, now deep into building with code and AI.
 
-## What I'm Building
+## Projects
 
-### [Simple LLMS](https://github.com/oiseaudenuit/simple-llms) — your catalog, legible to every AI
+### [Simple LLMS](https://github.com/oiseaudenuit/simple-llms) — your catalog, legible to every AI &nbsp;·&nbsp; _sunset_
 
-A Shopify app that auto-generates `llms.txt` and `llms-full.txt` for any store, so ChatGPT, Claude, Perplexity, and Gemini can read your catalog as a clean structured map instead of scraping raw HTML. One-click install, daily auto-sync, real-time analytics on which AI assistants are actually pulling your store.
+A Shopify app that auto-generated `llms.txt` and `llms-full.txt` for any store, so ChatGPT, Claude, Perplexity, and Gemini could read your catalog as a clean structured map instead of scraping raw HTML. One-click install, daily auto-sync, real-time analytics on which AI assistants were pulling your store.
 
-[**simple-llms.com**](https://simple-llms.com) · Built on Cloudflare Workers · [Repo →](https://github.com/oiseaudenuit/simple-llms)
+> **Sunset.** As Shopify shifts toward native agentic commerce — stores exposing their catalogs to AI agents directly — a standalone `llms.txt` layer is no longer necessary. Kept here as a past project.
+
+Built on Cloudflare Workers · [Repo →](https://github.com/oiseaudenuit/simple-llms)
 
 ## What I'm Into
 
