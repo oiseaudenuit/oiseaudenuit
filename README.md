@@ -18,19 +18,19 @@ A look at what I'm exploring and collecting, based on my [starred repos](https:/
 
 | Topic | Repos |
 |-------|------:|
-| AI Agents & Orchestration | 113 |
-| Web Development & Frontend | 104 |
-| Generative AI & LLMs | 63 |
-| Claude Code Skills & Plugins | 62 |
-| MCP Servers & Integrations | 56 |
-| Audio, Video & Media | 35 |
-| DevOps, Cloud & Infrastructure | 34 |
-| Productivity & Project Management | 33 |
-| Terminal, CLI & Hardware | 33 |
-| E-commerce & Business | 29 |
-| Machine Learning & Data Science | 26 |
-| Security, Privacy & OSINT | 26 |
-| Trading, Finance & Crypto | 25 |
-| Education & Learning | 21 |
-| Communication & Email | 18 |
-| Document Processing & OCR | 14 |
+| AI Agents & Orchestration | 129 |
+| Web Development & Frontend | 112 |
+| Claude Code Skills & Plugins | 81 |
+| Generative AI & LLMs | 70 |
+| MCP Servers & Integrations | 63 |
+| DevOps, Cloud & Infrastructure | 45 |
+| Audio, Video & Media | 44 |
+| Terminal, CLI & Hardware | 41 |
+| Productivity & Project Management | 37 |
+| E-commerce & Business | 34 |
+| Machine Learning & Data Science | 34 |
+| Security, Privacy & OSINT | 31 |
+| Trading, Finance & Crypto | 28 |
+| Education & Learning | 26 |
+| Communication & Email | 23 |
+| Document Processing & OCR | 18 |
